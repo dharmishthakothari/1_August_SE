@@ -1,0 +1,80 @@
+ER diagram 
+DFD 
+Use diagram
+
+
+git  repository ->
+Assignment -> C 
+		Class Task ->
+		C++
+		SQL
+		Java
+		PHP
+
+Assessment 
+
+Project--> 
+
+C Programming ---> installation Dev C ++
+	
+Structure 
+1. header 
+2. main
+3 logic
+
+#include<stdio.h>
+int main()
+{
+	printf("Hello World");
+}
+
+
+Data Types and variables 
+
+Variables - values are not fixed/indentifier  e.g name = 
+
+PI 
+
+sum of 2 numbers 
+10+20 = 30
+
+12.23+10 = 
+
+23.45+56.67 = 
+
+name= "dharmishtha"
+name="Test"
+variable 
+	num1,num2 
+variable 
+	name
+
+Data type / which types of holds variables 
+
+PHP
+Python
+Java
+
+Numeric  int,long,short
+decimal  float,double
+String   character array
+Boolean  True/False
+
+add 2 numbers 
+
+comments - For documentation / Non executable part of your program
+
+2 types 
+	1. Single line
+		//
+	2. multiline 
+		/* 
+		*/
+
+
+declare 5 variables and initilize 
+with diffrent values and add 100 to these variables 
+shows the output
+
+
+
