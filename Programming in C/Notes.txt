@@ -77,4 +77,73 @@ with diffrent values and add 100 to these variables
 shows the output
 
 
+18th Aug
+
+conditional statements --->if-else , if ... else if
+ternary operator
+
+loops --->repetition 
+	entry control loop/exit control loop
+	-->for  / entry control loop
+		
+		for(intilization;condition;increment/decrement)
+		
+		for(i=1;i<=10;i++)
+		{
+			printf("Hello");
+		}	
+	factorial number = 10
+	10*9*8*7*6*5*4*3*2*1 = 
+	
+factorial number = 5
+	5*4*3*2*1 = 
+
+fibonacci series
+
+add 2 preccedding number
+
+0 , 1 , 1 , 2 , 3 , 5 , 8 , 13 
+
+num= 5 
+0 , 1 , 1 , 2 , 3
+
+num=7
+
+0 , 1 , 1 , 2 , 3 , 5 , 8
+
+
+APS =a + (n - 1)d, where 'a' is the first term, 'n' is the number of terms, and 'd' is the common difference between consecutive terms
+
+a=2
+n=5
+d=2
+
+1st = 2+(5-1)*2 =2+4*2 = 2+8 = 10
+
+
+Multilication Table
+
+5 * 1 =5
+5 * 2 =10
+5 * 3 =15
+....
+5 * 10 =50
+
+for(i=1;i<=10;i++)
+{
+	ans = num*i;
+	printf("%d",ans);
+}
+
+	
+	
+
+	-->while / entry control loop
+	--> do .. .while / exit control loop
+
+	
+
+
+
+
 
