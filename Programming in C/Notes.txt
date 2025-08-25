@@ -314,7 +314,79 @@ ___________________________________________________________________
 _________________________________________________________________
 
 
-	
+25th Aug
+
+Pattern ?
+
+HW
+
+5	5	5	5	5
+4	4	4	4
+3	3	3
+2	2	
+1
+
+
+HW
+1	1	1	1	1
+2	2	2	2
+3	3	3
+4	4
+5
+5
+4	4	
+3	3	3
+2	2	2	2
+1	1	1	1	1
+
+Hint row loop will be  1
+	col = 2 with condition
+
+
+name = INDIA
+
+I
+I	N
+I	N	D
+I	N	D	I
+I	N	D	I	A
+
+name[10]="INDIA"
+Array = element always access thru index
+I = name[0]
+N = name[1]
+D = name[2]
+
+
+first step -->  nums , loops 2 (nested)
+
+
+	for(row=1;row<=num;row++)
+	{
+		for(col=num;col>=row;col--)
+		{
+		
+____________________
+
+break , continue and go to 
+
+break ? stop , break iteration
+
+to break a loop based on condition
+
+for(i=0;i<10;i++)
+{
+	if(i==5)
+		break;
+}
+
+--> Continue will skip the current iteration and execute the next iteration
+for(i=0;i<10;i++)
+{
+	if(i==5)
+		continue;
+	printf("%d",i);
+}
 
 
 	
