@@ -490,6 +490,48 @@ printf("%d",sum);
 now we are accepting elements from user
 
 
+1th Sep
+
+array - collection  of elements 
+
+//array declaration 
+int number[10];
+
+//array is accessed thru index
+for(i=0,j=1;i<10;i++,j++)
+{
+	//initilize  1 to 10
+	number[i]=j;
+}
+
+
+9
+18
+27
+36
+45
+...
+90
+
+1-10
+
+we want to accept no of elements from user
+
+
+lenght=sizeof(numbers[i])*numbers
+
+add all array elements , elelemts accept from user
+
+
+
+
+
+
+
+
+
+
+
 
 
 
