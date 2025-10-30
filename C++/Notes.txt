@@ -1,0 +1,31 @@
+30th Oct 
+
+	Inhertiance - 
+		parent - child 
+		already class properties - use in another class
+		Types 
+		single - 
+		multilevel 
+		multiple  - A B and C 
+		hierchical - A - uses B-C
+		hibrid
+		:: - parent class A::f1()
+
+Constructor - call automatically at time object creation
+	- same name as class name
+	- no return type 
+	- to initlize variables/instance variable 
+
+method VS constructor 
+- return 
+- name
+- called
+
+
+ 
+Inheritance 
+
+polymorphisum  - many forms 
+	Compile time/static binidng - method overloading and Operator overloading 
+		same name and different arguments 
+	Run time/dynamic biding - method overriding - same name same argument -inheritance 
