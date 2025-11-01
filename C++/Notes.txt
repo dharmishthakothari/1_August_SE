@@ -29,3 +29,64 @@ polymorphisum  - many forms
 	Compile time/static binidng - method overloading and Operator overloading 
 		same name and different arguments 
 	Run time/dynamic biding - method overriding - same name same argument -inheritance 
+
+
+1st Nov
+	Operator Overloading 
+	int a,b;
+	a=10
+b=20;
+c=a+b;
+if a>b 
+{
+	stmt
+}
+class A 
+{
+	public:
+	int num=20;
+};
+class B
+{
+	public:
+		int num=20;
+};
+invalid objA+objB  --->you have to overload + operator 
+arithmatic
+locgical
+relational 
+ overload 
+objA>objB --invalid 
+> overload 
+
+Point - x ,y intilize in constructor and create display()
+
+	valid A::num+B::num
+
+ unary operator ?
+!
+a++
+i++
+++i
+--i
+p1++
+p1(2,3)
+3 ,4 
+
+
+Lab task  : Point
+1. Opverload > , p1>p2
+2. Distance class (feet,inch)
+Menu 1. Add Distance
+	 2. Substract
+	  3. Multiply
+	  4. compare which is greate 
+
+-Which operators can't overload 
+
+Overriding 
+
+
+
+	
+
