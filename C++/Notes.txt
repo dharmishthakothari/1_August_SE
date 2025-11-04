@@ -97,8 +97,28 @@ Friend function/class
 Lab Task : Function vs Virtual function vs Pure virtual function vs inline function  vs friend function 
 
 
+inline function - short function , 
 
+int add(int no,int no2)
+{
+.....
+....
+...
 
+	return no+no2;
+}
+int main()
+{
+	add(23,12);
+  ....
+...
+}
+_______________________
+
+inline int add(...)
+{
+	return ;
+}
 
 	
 
