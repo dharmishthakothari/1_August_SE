@@ -121,4 +121,22 @@ inline int add(...)
 }
 
 	
+6th Nov
+
+File Handling 
+     read
+     write
+     append
+
+   fstream
+   ifstream - reading
+   ofstream - writing
+
+
+Lab task : write a data from console into file
+Lab task : copy from one file to another 
+
+   1 file read 
+   2 data write 
+
 
