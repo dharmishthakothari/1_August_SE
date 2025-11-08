@@ -139,4 +139,19 @@ Lab task : copy from one file to another
    1 file read 
    2 data write 
 
+8th Nov
+    static  - for memory mgmt 
+       a compnay have 1000 employee 
+        name , eid, salary,dept , c_no ,address ,designation 
+	student data/class
+
+1. static initilize only once 
+2. static belong to class not to object
+
+static method 
+access thru class 
+static methods can use static variables 
+
+
+
 
